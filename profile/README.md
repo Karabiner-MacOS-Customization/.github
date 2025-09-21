@@ -18,7 +18,7 @@ Karabiner-Elements is a sophisticated and powerful open-source utility designed 
 
 This tool is indispensable for developers, writers, and power users who seek to optimize their workflow. It supports the modification of every key, including function keys, media keys, and the Caps Lock key, which can be transformed into a highly useful Hyper key. Karabiner-Elements operates seamlessly in the background, providing a stable and reliable customization experience without requiring a reboot.
 
-![Karabiner-Elements Interface](https://static.macupdate.com/screenshots/345878/m/karabiner-elements-screenshot.png?v=1664212623)
+![Karabiner-Elements Interface](https://www.maxiapple.com/wp-content/uploads/2015/01/Karabiner-KeyRemap4MacBook-Mac-OSX-1.jpg)
 
 With its intuitive JSON-based configuration, users can craft intricate rules or choose from a vast library of community-made complex modifications. Whether you are using a non-Apple keyboard, need ergonomic adjustments, or want to create powerful shortcuts for specific apps like Photoshop or Visual Studio Code, Karabiner-Elements delivers professional-grade keyboard remapping capabilities for macOS.
 
